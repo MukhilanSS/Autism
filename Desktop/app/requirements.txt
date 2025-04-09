@@ -4,7 +4,7 @@ scikit-learn
 numpy
 gunicorn
 
-
+flask-cors
 imbalanced-learn
 category-encoders
 matplotlib
